@@ -31,3 +31,6 @@ For example on my laptop it would be a folder in my downloads folder
 Then, source the file 20250211_write_out_XML_for_S104.R or the S-111 equivalent for the S-111 folder. You should end up with a file CATALOGUE.xml in the folder you run the command in
 
 `source("~/Downloads/S104_and_S111_XML_catalogue_generation-main/s100_testing_utility_functions.R")`
+
+`source("~/Downloads/S104_and_S111_XML_catalogue_generation-main/20250211_write_out_XML_for_S104.R")`
+
