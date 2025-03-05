@@ -16,7 +16,7 @@ Check that the function hdf5_limits_and_check() works. In R-Studio, source the f
 
 `hdf5_limits_and_check("104","name_of_your_104_file.h5")`
 
-If this doesn't work, see if you can follow the error messages through as to why, or email thomas.cropper@ukho.gov.uk
+If this doesn't work, see if you can follow the error messages through as to why, or email customerservices@ukho.gov.uk
 
 ## Step 4
 
