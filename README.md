@@ -34,3 +34,5 @@ Then, source the file 20250211_write_out_XML_for_S104.R or the S-111 equivalent 
 
 `source("~/Downloads/S104_and_S111_XML_catalogue_generation-main/20250211_write_out_XML_for_S104.R")`
 
+There are some hardcoded lines in the top of these files you may need/wish to change!
+
