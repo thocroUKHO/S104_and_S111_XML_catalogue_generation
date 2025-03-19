@@ -22,7 +22,7 @@ If this doesn't work, see if you can follow the error messages through as to why
 
 In R, set the working directory to a folder that contains S-104 or S-111 files.
 
-You can do thus by Session > Set Working Directory, or the command setwd("folder_path")
+You can do this by Session > Set Working Directory, or the command setwd("folder_path")
 
 For example on my laptop it would be a folder in my downloads folder
 
